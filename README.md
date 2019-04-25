@@ -139,6 +139,7 @@ Supported by / 支持者:
 * Hewie Mei, Software Engineer, Liepin
 * HongBo Du, Software Engineer, Freelancer
 * Huajie Zhou, Student,Guangxi Normal University
+* Hugo Zhang, Engineer, Toulouse, France
 * Irene Knapp, Senior Software Engineer, Google
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * JackEggie(Jack Tang), Software Engineer, Infor
